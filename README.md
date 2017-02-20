@@ -1,4 +1,8 @@
-# unity3d-string-popup
+# unity3d-editor-extensions
+
+It contains following UI elements-
+
+**String Popup:**
 
 Creates a popup field in EditorWindow or Inspector for a SerializedProperty.
 
